@@ -1,0 +1,10 @@
+{
+  "name": "Bioshock Custom Profile",
+  "description": "A mix of Bioshock 1 and Bioshock Infinite UI sounds.",
+  "author": "wesuter",
+  "version": "v0.1",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
